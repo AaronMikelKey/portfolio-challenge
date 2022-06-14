@@ -1,0 +1,27 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	height: 100%;
+}
+
+header {
+	width: 100vw;
+	height: 20vh;
+	background-color: darkcyan;
+}
+
+header, ul {
+	display: flex;
+	flex-direction: row;
+}
+
+body {
+	background-color: darkslategray;
+}
+
+li {
+	list-style: none;
+}
