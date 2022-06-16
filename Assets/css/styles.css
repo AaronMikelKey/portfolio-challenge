@@ -5,6 +5,7 @@
 
 body {
 	width: 100vw;
+	background-color: darkslategray;
 }
 
 header {
@@ -35,10 +36,16 @@ header, ul {
 header ul li {
 }
 
-body {
-	background-color: darkslategray;
-}
-
 li {
 	list-style: none;
+}
+
+section, div, a, img {
+	width: 80%;
+	height: auto;
+	margin: auto;
+}
+
+#main-image {
+	width: 100%;
 }
