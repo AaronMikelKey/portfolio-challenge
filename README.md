@@ -9,8 +9,5 @@ A portfolio of work can showcase your skills and talents to employers looking to
 This is the basic portfolio I made in HTML and CSS
 
 
-The following animation shows the web application's appearance and functionality:
-
-
 - - -
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
